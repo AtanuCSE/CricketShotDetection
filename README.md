@@ -1,4 +1,4 @@
-# CricketShotDetection
+# Cricket Shot Detection
 This repository contains a dataset from work on cricket shot detection using deep learning.
 
 Check the following link to access the dataset:
