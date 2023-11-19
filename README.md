@@ -3,7 +3,7 @@ This repository contains a dataset from work on cricket shot detection using dee
 
 Check the following link to access the dataset:
 
-[GDrive Link of the dataset](https://drive.google.com/drive/folders/1D7kgyUN4JoPSM4dpPvzxS6k3WSkqIbkL?usp=share_link)
+[(1278 Cricket Shots of four types) GDrive Link of the dataset](https://drive.google.com/drive/folders/1D7kgyUN4JoPSM4dpPvzxS6k3WSkqIbkL?usp=share_link)
 
 ## Use the following reference for citation:
 
